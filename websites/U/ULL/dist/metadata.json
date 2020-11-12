@@ -6,11 +6,15 @@
   },
   "url": [
     "www.ull.es",
-    "www.campusvirtual.ull.es",
-    "www.oam.ull.es",
-    "www.sede.ull.es",
-    "www.campushumanidades.ull.es"
+    "campusvirtual.ull.es",
+    "oam.ull.es",
+    "sede.ull.es",
+    "campushumanidades.ull.es",
+    "gestuni.ull.es",
+    "login.ull.es"
   ],
+
+  
   "description": {
     "spanish": "A rich presence for the ULL university"
   },
